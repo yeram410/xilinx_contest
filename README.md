@@ -23,7 +23,7 @@ BADGER은 GUI를 제공하여 Remote로 경로 설정 및 변경이 가능하여
 #
 ###### - 대여 서비스로 진행하여 특정한 시기에 관리를 해줌으로써 경제적 효율성을 확보함.
 #
-##### Applied Xlinx Product
+##### Applied Xilinx Product
 ###### - Features of Xilinx products applied to items
 ###### - Topics for utilizing technology applied to items
 #
