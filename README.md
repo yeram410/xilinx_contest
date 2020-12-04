@@ -28,9 +28,10 @@ BADGER은 GUI를 제공하여 Remote로 경로 설정 및 변경이 가능하여
 ###### - Topics for utilizing technology applied to items
 #
 ##### Bill Of Materials
+#
 ##### Full Instructions
+#
 ### Market Analysis
-
 ##### Target Market Size and Prospect
 ###### - Target Segmentation
 ###### - COnsumer Analysis
