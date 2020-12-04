@@ -61,8 +61,7 @@ BADGER은 GUI를 제공하여 Remote로 경로 설정 및 변경이 가능하여
 ##### Images
 1. 배져 로봇 전체 사진
 2. 배져 로봇 블록 다이어그램 
-    a. 원래 다이어그램
-    b. ZU104로 electrical 파트가 대체된 다이어그램
+    (a. 원래 다이어그램, b. ZU104로 electrical 파트가 대체된 다이어그램)
 3. 장단점 비교
 4. Geese detection by Vitis AI vs. 기존 detection / conversion이 가능하면 함께 비교 
 
