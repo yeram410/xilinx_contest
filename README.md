@@ -32,28 +32,6 @@ BADGER은 GUI를 제공하여 Remote로 경로 설정 및 변경이 가능하여
 #
 #### Full Instructions
 #
-### Market Analysis
-#### Target Market Size and Prospect
-##### - Target Segmentation
-##### - COnsumer Analysis
-##### - SWOT Analysis
-##### - Market Status and Analysis 1) 북미 시장 & 캘리포니아 골프장
-##### - Market Status and Analysis 2) 시장 성장 동력
-#
-#### Potential, marketing strategy
-##### - 제품의 특성 및 경쟁력
-1) Smart
-2) Usable
-3) Portable
-4) Database
-5) Niche Industry
-##### - 가격 경쟁력
-##### - 대체 기술 출현 가능성
-##### - 초기 시장 진입전략
-##### - 마케팅 전략 4P (Product, Price, Place, Promotion)
-##### - STP (관련시장, 시장 세분화, 표적 시장, 포지셔닝)
-
-#
 #### 성장 가능성
 #
 #### 향후 추진 계획
