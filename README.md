@@ -16,7 +16,7 @@
 ##### **- Originality and Differentiation**
 
 
-#
+
 ##### **- Technical Development**
 
 #
