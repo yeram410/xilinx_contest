@@ -7,7 +7,7 @@
 
 ### Project Overview
 
-##### Purpose and Expectations
+#### Purpose and Expectations
 이미지 인식과 자율주행 기술을 활용해 넓은 공간을 자동으로 모니터링 하면서, 거위로부터 피해를 입는 상업지역을 보호할 수 있다. PGA 골프장에서 지불하는 연간 34억원의 비용을 대폭 감소함으로써 얻는 경제적인 효율성을 얻을 수 있고, 동물 행동에 변화를 주어 동물과 사람 사이에 갈등을 해소할 수 있다.
 #
 ##### Our Robot
