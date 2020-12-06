@@ -1,8 +1,8 @@
 # Xilinx Adaptive Computing Contest 2020
 
-![N|Solid](https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png)
 
-<img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="48">
+
+<img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="90">
 
 
 ### Project Overview
