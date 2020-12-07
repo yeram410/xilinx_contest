@@ -1,5 +1,5 @@
 # Xilinx Adaptive Computing Contest 2020
-
+Team Members: Seongdae Kim, Yearam Kim, Hoo Kim
 
 
 <img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="140">
@@ -43,8 +43,9 @@ Our badger helps drive out the geese that interfere with the business in a low m
 #### 향후 추진 계획
 (간트차트)
 #
-#### Images
-1. 배져 로봇 전체 사진
+#### Badger Robot
+1. Badger Robot Design
+
 2. 배져 로봇 블록 다이어그램 
     (a. 원래 다이어그램, b. ZU104로 electrical 파트가 대체된 다이어그램)
 3. 장단점 비교
