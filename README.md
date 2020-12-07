@@ -1,9 +1,8 @@
 # Xilinx Adaptive Computing Contest 2020
-Team Members: Seongdae Kim, Yearam Kim, Hoo Kim
-
-
 <img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="140">
 
+Team Members: Seongdae Kim, Yearam Kim, Hoo Kim
+Applied Contest Area: Catergory 2: Intelligent Video Anlytics
 
 ### Project Overview
  우리 프로젝트는 이미지 인식과 자율주행 기술을 사용하고 있음. 
