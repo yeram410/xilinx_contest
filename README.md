@@ -15,8 +15,7 @@ What's noteworthy in this paper is that we used Vitis AI, which Xilinx developed
 Self-driving robots that track geese are equipped with automatic monitoring functions as they go around golf courses.
 The concept of our project is that several robots send and receive data from each other, recognize and track geese, and chase them away that cause damage to commercial areas. When robots recognize geese, they accumulate geese photo data and provide it to the lab, enabling efficient use in the area of animal behabior modification and Pest control Industry.
 
-#
-    
+#    
 ### Our Robot
 
 #### Originality and Differentiation
@@ -110,6 +109,8 @@ Note: ZCU104 board reduces the complexity in its design as it removes the extra 
 
 
 #### SW state diagram 
+The following state diagram shows the main condition and sequence for the Badger Robot's SW algorithm. Currently, Camera, Lidar, and Bumper are the major sensors to detect Canadian Geese using Camera and other obstacles using Lidar and Bumper. The highlighted boxes in the figure below can be substituted with ZCU104 evaluation board, and the single board with single Vitis AI model can support various target detections.
+
 <img width="700" alt="스크린샷 2020-12-08 오후 2 52 47" src="https://user-images.githubusercontent.com/73500189/101509260-ee9f0a80-39bb-11eb-9277-6e90d216a78f.png">
 
 ##### Comparing goose detection(original model vs sample model)      
