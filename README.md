@@ -43,7 +43,13 @@ Autonomous Driving Video : https://youtu.be/4dddvqC3Yrw
 
 #
 ### Applied Xilinx Product
+According to the guidance of the contest condition, we use the following items for entering the contest category 2: Intelligent Video Analytics.
+1. Zynq UltraScale - video codec unit (VCU) and the deep learning processing unit (DPU)
+2. MPSoC ZCU104 Evaluation Kit 
+3. Vitis AI - used 3 major machine models - classification, ssd, Yolov3
+
 ##### - Features of Xilinx products applied to items
+
 ##### - Topics for utilizing technology applied to items
 #
 #### Bill Of Materials
