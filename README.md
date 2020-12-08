@@ -55,6 +55,34 @@ According to the guidance of the contest condition, we use the following items f
 #### Bill Of Materials
 #
 #### Full Instructions
+Connecting to Kevin over WiFi
+1.	Open up the lid of the waterproof housing (Steve) and flip the red power switch on the battery (located front right side)
+    a.	You should see a number of LEDs come on inside the housing
+    b.	You may now close the lid and go to your computer
+2.	On a laptop, connect to Kevin’s internal WiFi:
+    a.	SSID: TP-LINK_4F36 (Badger?)
+    b.	PASSWORD: 79393126 (need not to type for operation mode) 
+3.	Once connected, open up an SSH client such as PUTTy and SSH into the main Pi
+    a.	Enter the IP Address of the robot into putty: 192.168.0.101
+        i.	Note: try 192.168.0.100 if .101 doesn’t work
+    b.	Click connect
+    c.	Once connected, you will be prompted for a username and password
+        i.	USERNAME: xxx (intentionally hidden)
+        ii.	PASSWORD: xxxxxx (intentionally hidden)
+	      Note: Now that you are connected to the main Pi
+4.	Start the program for the robot
+    a.	In the PUTTy terminal, type: cd badger
+    b.	Once in the badger folder, type: python BADGER.py
+    c.	This will start the program for STEVE
+	      Note: Now that the program is running
+5.	Connect to the robot in the GUI
+    a.	Run badger_robot_connect.py on your laptop
+    b.	In the GUI, click connect
+      Note: You are now connected to STEVE and have the ability to control it
+
+GUI usage
+1.	Code Download for GUI operation from GitBucket
+
 #
 ### Badger Robot
 #### Badger Robot Design
