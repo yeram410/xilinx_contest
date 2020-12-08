@@ -7,7 +7,7 @@
 
 #### Team Members: Seongdae Kim, Yearam Kim, Hoo Kim    
 #### Applied Contest Area: Catergory 2: Intelligent Video Anlytics
-
+#
 ### Project Purpose and Expectations
 We propose a driving robot optimized for golf courses that use image recognition and self-driving technology.
 What's noteworthy in this paper is that we used Vitis AI, which Xilinx developed for all developers, to recognize images.
