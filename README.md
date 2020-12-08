@@ -98,7 +98,11 @@ The system will also have a base station, called the BADGR Den, which will be th
 #### Badger Robot Design
 <img width="700" alt="스크린샷 2020-12-08 오후 2 52 47" src="https://user-images.githubusercontent.com/73500189/101506461-c2ce5580-39b8-11eb-8c32-4ab726a2b451.png">
 
+#### Badger Robot Electrical Components
+<img width="700" alt="스크린샷 2020-12-08 오후 2 52 47" src="https://user-images.githubusercontent.com/73500189/101506485-c8c43680-39b8-11eb-9e7b-e2d6d6adf335.png">
+
 #### Badger Robot System Diagram
+
 #### Key features
 ##### Comparing goose detection(original model vs sample model)      
 <img width="178" alt="image" src="https://user-images.githubusercontent.com/68213891/101438747-65a1b800-3956-11eb-8692-d8af0b869d97.png">
