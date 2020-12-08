@@ -100,15 +100,16 @@ Our project tried two approaches 1) Follow the user guide to generate the image 
 To use Serial Communication, this driver should be installed, and you can get the file from the    
 https://pynq.readthedocs.io/en/latest/getting_started/zcu104_setup.html 
 
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/68213891/101432623-88c76a00-394c-11eb-90f5-e4087b271a74.png">
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/68213891/101432629-8c5af100-394c-11eb-877d-8c30236577dd.png">
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/68213891/101433164-97fae780-394d-11eb-8fe7-0a92528b7d83.png">
-<img width="369" alt="image" src="https://user-images.githubusercontent.com/68213891/101432636-8ebd4b00-394c-11eb-9daa-93f7ff149d6d.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/68213891/101432623-88c76a00-394c-11eb-90f5-e4087b271a74.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/68213891/101432629-8c5af100-394c-11eb-877d-8c30236577dd.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/68213891/101433164-97fae780-394d-11eb-8fe7-0a92528b7d83.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/68213891/101432636-8ebd4b00-394c-11eb-9daa-93f7ff149d6d.png">
 
      
 ### Vethernet    
 <img width="372" alt="image" src="https://user-images.githubusercontent.com/68213891/101432642-91b83b80-394c-11eb-822f-e0f0f83fa3ad.png">
 <img width="202" alt="image" src="https://user-images.githubusercontent.com/68213891/101432647-9381ff00-394c-11eb-8925-b88c91683505.png">
+
 ### ZCU104 webinar     
      
 https://event.on24.com/eventRegistration/console/EventConsoleApollo.jsp?&eventid=2552508&sessionid=1&username=&partnerref=&format=fhvideo1&mobile=&flashsupportedmobiledevice=&helpcenter=&key=12AF8FECC081E16A1AD0DA74931F1585&newConsole=true&nxChe=true&text_language_id=en&playerwidth=748&playerheight=526&eventuserid=343773765&contenttype=A&mediametricsessionid=332153072&mediametricid=3593851&usercd=343773765&mode=launch    
