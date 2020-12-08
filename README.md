@@ -94,7 +94,8 @@ https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/18842446/Setup+a+Serial+Co
     
 #### Booting option from the user-guide     
 Note: SD1 Boot Mode is mainly used in this project with UART serial communication for debugging purpose.     
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/68213891/101432617-86651000-394c-11eb-82ae-f4fb8250ced8.png">
+     
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/68213891/101432617-86651000-394c-11eb-82ae-f4fb8250ced8.png">
      
      
 ### Sd card    
@@ -104,7 +105,9 @@ Our project tried two approaches 1) Follow the user guide to generate the image 
 Note: after following the instructions, you may build the image; however, you may add and install a few files to make the image fully working with the provided examples in the user guide.     
      
 To use Serial Communication, this driver should be installed, and you can get the file from the     
+     
 Note: Considered the pynq versions, however, in the project, this is not used as we decide to keep using petalinux + Vitis AI.      
+     
 Note: you may use the following link for checking information about pynq.     
 https://pynq.readthedocs.io/en/latest/getting_started/zcu104_setup.html     
      
@@ -113,6 +116,9 @@ Example: Tried with the team’s laptop to run pynq + jupyter
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/68213891/101432623-88c76a00-394c-11eb-90f5-e4087b271a74.png">
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/68213891/101432629-8c5af100-394c-11eb-877d-8c30236577dd.png">
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/68213891/101433164-97fae780-394d-11eb-8fe7-0a92528b7d83.png">
+     
+     
+IP configuration     
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/68213891/101432636-8ebd4b00-394c-11eb-9daa-93f7ff149d6d.png">
     
 Note: we only use the ethernet    
