@@ -1,5 +1,8 @@
 # Xilinx Adaptive Computing Contest 2020
+<div>
 <img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="140">
+<img width="538" alt="BADGER LOGO" src="https://user-images.githubusercontent.com/68213891/101435800-4d2e9f00-3950-11eb-93ef-5e960c513933.png">
+</div>
 
 Team Members: Seongdae Kim, Yearam Kim, Hoo Kim
 Applied Contest Area: Catergory 2: Intelligent Video Anlytics
