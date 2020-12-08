@@ -46,7 +46,7 @@ Autonomous Driving Video : https://youtu.be/4dddvqC3Yrw
 ##### **- Technical Development**
 
 #
-#### Applied Xilinx Product
+### Applied Xilinx Product
 ##### - Features of Xilinx products applied to items
 ##### - Topics for utilizing technology applied to items
 #
@@ -54,14 +54,14 @@ Autonomous Driving Video : https://youtu.be/4dddvqC3Yrw
 #
 #### Full Instructions
 #
-#### Badger Robot
-1. Badger Robot Design
+### Badger Robot
+#### Badger Robot Design
 
-2. 배져 로봇 블록 다이어그램 
+#### 배져 로봇 블록 다이어그램 
     (a. 원래 다이어그램, b. ZU104로 electrical 파트가 대체된 다이어그램)
 
-3. 장단점 비교
-4. Comparing goose detection(original model vs sample model)      
+#### 장단점 비교
+##### Comparing goose detection(original model vs sample model)      
 <img width="178" alt="image" src="https://user-images.githubusercontent.com/68213891/101438747-65a1b800-3956-11eb-8692-d8af0b869d97.png">
     
 The original detection FPS are less than 4.5 but accuracy is more than 96.3%.
