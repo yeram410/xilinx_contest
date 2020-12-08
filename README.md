@@ -107,8 +107,8 @@ https://pynq.readthedocs.io/en/latest/getting_started/zcu104_setup.html
 
      
 ### Vethernet    
-<img width="372" alt="image" src="https://user-images.githubusercontent.com/68213891/101432642-91b83b80-394c-11eb-822f-e0f0f83fa3ad.png">
-<img width="202" alt="image" src="https://user-images.githubusercontent.com/68213891/101432647-9381ff00-394c-11eb-8925-b88c91683505.png">
+<img width="500" alt="image" src="https://user-images.githubusercontent.com/68213891/101432642-91b83b80-394c-11eb-822f-e0f0f83fa3ad.png">
+<img width="400" alt="image" src="https://user-images.githubusercontent.com/68213891/101432647-9381ff00-394c-11eb-8925-b88c91683505.png">
 
 ### ZCU104 webinar     
      
@@ -122,8 +122,8 @@ https://www.youtube.com/watch?v=emXEmVONk0Q
     
 Setup: Boot from SD Card
 
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/68213891/101432651-967cef80-394c-11eb-9164-e83aeb355a99.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/68213891/101432651-967cef80-394c-11eb-9164-e83aeb355a99.png">
 
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/68213891/101432659-9977e000-394c-11eb-9ee6-2de851b2f24e.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/68213891/101432659-9977e000-394c-11eb-9ee6-2de851b2f24e.png">
 
-<img width="468" alt="image" src="https://user-images.githubusercontent.com/68213891/101432672-9d0b6700-394c-11eb-8ce2-f82c4b2e6db8.png">
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/68213891/101432672-9d0b6700-394c-11eb-8ce2-f82c4b2e6db8.png">
