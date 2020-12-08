@@ -77,9 +77,6 @@ When we used ZCU104 board with yolov3 model to test, the models show good FPS ne
 - Code
 - CAD
 #
-#### Our Action Plan
-<img width="1157" alt="스크린샷 2020-12-08 오전 11 53 28" src="https://user-images.githubusercontent.com/68213891/101432328-ff179c80-394b-11eb-9274-44f355d08f6e.png">
-
 
 ### Appendix
 
@@ -171,3 +168,5 @@ https://www.xilinx.com/support/documentation/sw_manuals/vitis_ai/1_1/ug1354-xili
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/68213891/101432672-9d0b6700-394c-11eb-8ce2-f82c4b2e6db8.png">
 https://github.com/Xilinx/Vitis-AI
 
+### Our Action Plan
+<img width="1157" alt="스크린샷 2020-12-08 오전 11 53 28" src="https://user-images.githubusercontent.com/68213891/101432328-ff179c80-394b-11eb-9274-44f355d08f6e.png">
