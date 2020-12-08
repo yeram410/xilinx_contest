@@ -108,7 +108,7 @@ https://pynq.readthedocs.io/en/latest/getting_started/zcu104_setup.html
      
 ### Vethernet    
 <img width="372" alt="image" src="https://user-images.githubusercontent.com/68213891/101432642-91b83b80-394c-11eb-822f-e0f0f83fa3ad.png">
-
+<img width="202" alt="image" src="https://user-images.githubusercontent.com/68213891/101432647-9381ff00-394c-11eb-8925-b88c91683505.png">
 ### ZCU104 webinar   
 https://event.on24.com/eventRegistration/console/EventConsoleApollo.jsp?&eventid=2552508&sessionid=1&username=&partnerref=&format=fhvideo1&mobile=&flashsupportedmobiledevice=&helpcenter=&key=12AF8FECC081E16A1AD0DA74931F1585&newConsole=true&nxChe=true&text_language_id=en&playerwidth=748&playerheight=526&eventuserid=343773765&contenttype=A&mediametricsessionid=332153072&mediametricid=3593851&usercd=343773765&mode=launch
     
@@ -119,7 +119,6 @@ http://www.pynq.io/ pynq
 https://www.youtube.com/watch?v=emXEmVONk0Q  
     
 Setup: Boot from SD Card
-<img width="202" alt="image" src="https://user-images.githubusercontent.com/68213891/101432647-9381ff00-394c-11eb-8925-b88c91683505.png">
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/68213891/101432651-967cef80-394c-11eb-9164-e83aeb355a99.png">
 
