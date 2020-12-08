@@ -96,6 +96,7 @@ Requirement / Constraint and Description
 The system will also have a base station, called the BADGR Den, which will be the housing station for the BADGR when it is not in use. This will have GPS and Radio communication with the BADGR and also allow for uploading geese images to the cloud. This is the extent of the scope of our project. It has been set based on a careful review of last year’s project in unison with communication with our sponsor about what they want in an upgraded version of the BADGR.
 
 #### Badger Robot Design
+https://github.com/yeram410/xilinx_contest/issues/1#issue-759559657
 
 #### Badger Robot System Diagram
 #### Key features
