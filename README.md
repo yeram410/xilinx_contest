@@ -96,6 +96,7 @@ Note: SD1 Boot Mode is mainly used in this project with UART serial communicatio
      
 ### Sd card    
 Our project tried two approaches 1) Follow the user guide to generate the image 2) download and use the pre-imaged file    
+     
 To use Serial Communication, this driver should be installed, and you can get the file from the    
 https://pynq.readthedocs.io/en/latest/getting_started/zcu104_setup.html 
 
@@ -105,5 +106,23 @@ https://pynq.readthedocs.io/en/latest/getting_started/zcu104_setup.html
 <img width="369" alt="image" src="https://user-images.githubusercontent.com/68213891/101432636-8ebd4b00-394c-11eb-9daa-93f7ff149d6d.png">
 
      
-#### Vethernet
+### Vethernet    
 <img width="372" alt="image" src="https://user-images.githubusercontent.com/68213891/101432642-91b83b80-394c-11eb-822f-e0f0f83fa3ad.png">
+
+### ZCU104 webinar   
+https://event.on24.com/eventRegistration/console/EventConsoleApollo.jsp?&eventid=2552508&sessionid=1&username=&partnerref=&format=fhvideo1&mobile=&flashsupportedmobiledevice=&helpcenter=&key=12AF8FECC081E16A1AD0DA74931F1585&newConsole=true&nxChe=true&text_language_id=en&playerwidth=748&playerheight=526&eventuserid=343773765&contenttype=A&mediametricsessionid=332153072&mediametricid=3593851&usercd=343773765&mode=launch
+    
+### ZCU104 Smart Camera Demo Design
+https://github.com/Xilinx/Embedded-Reference-Platforms-User-Guide/blob/master/Docs/overview.md#213-zcu104-smart-camera-platform   
+    
+http://www.pynq.io/ pynq   
+https://www.youtube.com/watch?v=emXEmVONk0Q  
+    
+Setup: Boot from SD Card
+<img width="202" alt="image" src="https://user-images.githubusercontent.com/68213891/101432647-9381ff00-394c-11eb-8925-b88c91683505.png">
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/68213891/101432651-967cef80-394c-11eb-9164-e83aeb355a99.png">
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/68213891/101432659-9977e000-394c-11eb-9ee6-2de851b2f24e.png">
+
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/68213891/101432672-9d0b6700-394c-11eb-8ce2-f82c4b2e6db8.png">
