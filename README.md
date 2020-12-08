@@ -15,7 +15,7 @@ Self-driving robots that track geese are equipped with automatic monitoring func
 The concept of our project is that several robots send and receive data from each other, recognize and track geese, and chase them away that cause damage to commercial areas. When robots recognize geese, they accumulate geese photo data and provide it to the lab, enabling efficient use in the area of animal behabior modification and Pest control Industry.
     
 
-
+#
 ### Project Overview
 We have designed a big durable amphibious goose remover badger
 For the PGA golf course that spends $250k a year on goose removal and maintenance. 
