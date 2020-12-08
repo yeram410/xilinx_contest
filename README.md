@@ -54,12 +54,6 @@ Our badger helps drive out the geese that interfere with the business in a low m
 #
 #### Full Instructions
 #
-#### 성장 가능성
-#
-#### Our Action Plan
-<img width="1157" alt="스크린샷 2020-12-08 오전 11 53 28" src="https://user-images.githubusercontent.com/68213891/101432328-ff179c80-394b-11eb-9274-44f355d08f6e.png">
-
-#
 #### Badger Robot
 1. Badger Robot Design
 
@@ -80,6 +74,9 @@ When we used ZCU104 board with yolov3 model to test, the models show good FPS ne
 - Schematics
 - Code
 - CAD
+#
+#### Our Action Plan
+<img width="1157" alt="스크린샷 2020-12-08 오전 11 53 28" src="https://user-images.githubusercontent.com/68213891/101432328-ff179c80-394b-11eb-9274-44f355d08f6e.png">
 #
 ### Appendix
 
