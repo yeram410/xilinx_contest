@@ -14,19 +14,20 @@ We propose a driving robot optimized for golf courses that use image recognition
 What's noteworthy in this paper is that we used Vitis AI, which Xilinx developed for all developers, to recognize images.
 Self-driving robots that track geese are equipped with automatic monitoring functions as they go around golf courses.
 The concept of our project is that several robots send and receive data from each other, recognize and track geese, and chase them away that cause damage to commercial areas. When robots recognize geese, they accumulate geese photo data and provide it to the lab, enabling efficient use in the area of animal behabior modification and Pest control Industry.
-    
 
 #
-### Project Overview
+    
+### Our Robot
+
+##### **- Originality and Differentiation**
 We have designed a big durable amphibious goose remover badger
 For the PGA golf course that spends $250k a year on goose removal and maintenance. 
 Our amphibious badger is able to photograph and detect geese and chase them away. 
 In addition to that the badger has GPS patrol path with collision avoidance and neural network image recognition.
 Our badger helps drive out the geese that interfere with the business in a low maintenance and cost-effective manner instead of the old fashion way of shooting them.
 
-#
-    
-### Our Robot
+
+##### **- Technical Development**
 1. Easy to Drive  
 2. Neural Network Image Recognition    
 3. Amphibious    
@@ -37,17 +38,8 @@ Our badger helps drive out the geese that interfere with the business in a low m
 
 <img width="700" alt="스크린샷 2020-12-08 오후 12 50 09" src="https://user-images.githubusercontent.com/68213891/101437604-e9a67080-3953-11eb-9905-a6513deb060e.png">
 
-
 <img width="700" alt="스크린샷 2020-12-08 오후 1 09 35" src="https://user-images.githubusercontent.com/68213891/101438864-a5689f80-3956-11eb-83cb-d5a0c623cebc.png">
 Autonomous Driving Video : https://youtu.be/4dddvqC3Yrw
-
-
-
-##### **- Originality and Differentiation**
-
-
-
-##### **- Technical Development**
 
 #
 ### Applied Xilinx Product
