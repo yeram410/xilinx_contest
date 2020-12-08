@@ -6,7 +6,7 @@ Applied Contest Area: Catergory 2: Intelligent Video Anlytics
 
 ### Project Overview
  우리 프로젝트는 이미지 인식과 자율주행 기술을 사용하고 있음. 
-이미지 인식하는데에 있어서 Vitis AI 를 활용할 수 있음. Vitis 어떤 AI 인지. 장점 서술
+이미지 인식하는데에 있어서 Vitis AI 를 활용할 수 있음. Vitis 어떤 AI 인지. (장점 서술)
 거위를 추적하는 자율주행 로봇은 골프장을 돌면서 자동으로 모니터링하는 기능을 갖추고 있음.
 거위를 인식하고, 추적하여 상업지역에 피해를 끼치는 거위를 내쫓는 것이 우리 프로젝트의 컨셉 
 거위을 인식할 떄 거위 사진 데이터를 축적하여 연구소에 제공함으로서 animal behavior Modification과 Pest Control 분야에 효율적 사용이 가능함. 
@@ -55,3 +55,18 @@ Our badger helps drive out the geese that interfere with the business in a low m
 - Schematics
 - Code
 - CAD
+
+#### Appendix
+
+Contest Information: Adaptive Computing Developer Contest with Xilinx
+https://www.hackster.io/contests/xilinxadaptivecomputing   
+   
+Forum Resource link:   
+https://forums.xilinx.com/t5/Adaptive-Computing-Challenge/bd-p/ACC_2020   
+   
+ZCU 104 Evaluation Kit Info.    
+https://www.youtube.com/watch?v=DXiYMplqm2Q   
+    
+Hardware Configuration   
+https://www.xilinx.com/products/boards-and-kits/zcu104.html#hardware    
+
