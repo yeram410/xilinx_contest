@@ -28,10 +28,9 @@ Our badger helps drive out the geese that interfere with the business in a low m
     
 ### Our Robot
 
-<img width="700" alt="스크린샷 2020-12-08 오후 2 37 29" src="https://user-images.githubusercontent.com/68213891/101444487-eff01900-3962-11eb-81a3-70185d4f37eb.png">
-
-
 <img width="650" alt="스크린샷 2020-12-08 오후 12 49 35" src="https://user-images.githubusercontent.com/68213891/101437577-d693a080-3953-11eb-9df2-c81780997e65.png">
+
+<img width="700" alt="스크린샷 2020-12-08 오후 2 37 29" src="https://user-images.githubusercontent.com/68213891/101444487-eff01900-3962-11eb-81a3-70185d4f37eb.png">
 
 <img width="700" alt="스크린샷 2020-12-08 오후 12 50 09" src="https://user-images.githubusercontent.com/68213891/101437604-e9a67080-3953-11eb-9905-a6513deb060e.png">
 
