@@ -19,7 +19,7 @@ The concept of our project is that several robots send and receive data from eac
     
 ### Our Robot
 
-##### **- Originality and Differentiation**
+#### ** Originality and Differentiation**
 We have designed a big durable amphibious goose remover badger
 For the PGA golf course that spends $250k a year on goose removal and maintenance. 
 Our amphibious badger is able to photograph and detect geese and chase them away. 
@@ -27,7 +27,7 @@ In addition to that the badger has GPS patrol path with collision avoidance and 
 Our badger helps drive out the geese that interfere with the business in a low maintenance and cost-effective manner instead of the old fashion way of shooting them.
 
 
-##### **- Technical Development**
+#### ** Technical Development**
 1. Easy to Drive  
 2. Neural Network Image Recognition    
 3. Amphibious    
