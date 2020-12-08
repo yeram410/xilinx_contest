@@ -55,8 +55,8 @@ According to the guidance of the contest condition, we use the following items f
 #### Bill Of Materials
 #
 #### Full Instructions
-Connecting to Kevin over WiFi
-1.	Open up the lid of the waterproof housing (Steve) and flip the red power switch on the battery (located front right side)
+Connecting to Badger Robot over WiFi
+1.	Open up the lid of the waterproof housing and flip the red power switch on the battery (located front right side)
     a.	You should see a number of LEDs come on inside the housing
     b.	You may now close the lid and go to your computer
 2.	On a laptop, connect to Kevin’s internal WiFi:
