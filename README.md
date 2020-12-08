@@ -5,6 +5,7 @@
 <img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="140">
 </div>
 
+
 #### Team Members: Seongdae Kim, Yearam Kim, Hoo Kim    
 #### Applied Contest Area: Catergory 2: Intelligent Video Anlytics
 #
@@ -27,11 +28,11 @@ Our badger helps drive out the geese that interfere with the business in a low m
     
 ### Our Robot
 
-<img width="527" alt="스크린샷 2020-12-08 오후 12 57 45" src="https://user-images.githubusercontent.com/68213891/101438123-faa3b180-3954-11eb-9c50-c3636df69425.png">
+<img width="700" alt="스크린샷 2020-12-08 오후 12 57 45" src="https://user-images.githubusercontent.com/68213891/101438123-faa3b180-3954-11eb-9c50-c3636df69425.png">
 
-<img width="857" alt="스크린샷 2020-12-08 오후 12 49 35" src="https://user-images.githubusercontent.com/68213891/101437577-d693a080-3953-11eb-9df2-c81780997e65.png">
+<img width="700" alt="스크린샷 2020-12-08 오후 12 49 35" src="https://user-images.githubusercontent.com/68213891/101437577-d693a080-3953-11eb-9df2-c81780997e65.png">
 
-<img width="865" alt="스크린샷 2020-12-08 오후 12 50 09" src="https://user-images.githubusercontent.com/68213891/101437604-e9a67080-3953-11eb-9905-a6513deb060e.png">
+<img width="700" alt="스크린샷 2020-12-08 오후 12 50 09" src="https://user-images.githubusercontent.com/68213891/101437604-e9a67080-3953-11eb-9905-a6513deb060e.png">
 
 [![Autonomous](https://i.ytimg.com/vi/4dddvqC3Yrw/hqdefault.jpg)](https://youtu.be/4dddvqC3Yrw) 
 
