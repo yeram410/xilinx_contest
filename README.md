@@ -8,7 +8,7 @@
 Team Members: Seongdae Kim, Yearam Kim, Hoo Kim
 Applied Contest Area: Catergory 2: Intelligent Video Anlytics
 
-### Project Overview
+### Project Purpose and Expectations
 We propose a driving robot optimized for golf courses that use image recognition and self-driving technology.
 What's noteworthy in this paper is that we used Vitis AI, which Xilinx developed for all developers, to recognize images.
 Self-driving robots that track geese are equipped with automatic monitoring functions as they go around golf courses.
@@ -16,7 +16,7 @@ The concept of our project is that several robots send and receive data from eac
     
 
 
-#### Purpose and Expectations
+### Project Overview
 We have designed a big durable amphibious goose remover badger
 For the PGA golf course that spends $250k a year on goose removal and maintenance. 
 Our amphibious badger is able to photograph and detect geese and chase them away. 
