@@ -34,6 +34,8 @@ Our badger helps drive out the geese that interfere with the business in a low m
 
 <img width="700" alt="스크린샷 2020-12-08 오후 12 50 09" src="https://user-images.githubusercontent.com/68213891/101437604-e9a67080-3953-11eb-9905-a6513deb060e.png">
 
+<img width="520" alt="스크린샷 2020-12-08 오후 2 37 29" src="https://user-images.githubusercontent.com/68213891/101444487-eff01900-3962-11eb-81a3-70185d4f37eb.png">
+
 <img width="700" alt="스크린샷 2020-12-08 오후 1 09 35" src="https://user-images.githubusercontent.com/68213891/101438864-a5689f80-3956-11eb-83cb-d5a0c623cebc.png">
 Autonomous Driving Video : https://youtu.be/4dddvqC3Yrw
 
