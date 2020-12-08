@@ -184,7 +184,6 @@ Example: Tried with the team’s laptop to run pynq + jupyter
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/68213891/101433164-97fae780-394d-11eb-8fe7-0a92528b7d83.png">
      
           
-          
 IP configuration     
      
 <img width="500" alt="image" src="https://user-images.githubusercontent.com/68213891/101432636-8ebd4b00-394c-11eb-9daa-93f7ff149d6d.png">
