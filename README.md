@@ -5,8 +5,8 @@
 <img src="https://www.xilinx.com/content/dam/xilinx/imgs/press/media-kits/corporate/xilinx-logo.png" width="140">
 </div>
 
-Team Members: Seongdae Kim, Yearam Kim, Hoo Kim
-Applied Contest Area: Catergory 2: Intelligent Video Anlytics
+#### Team Members: Seongdae Kim, Yearam Kim, Hoo Kim    
+#### Applied Contest Area: Catergory 2: Intelligent Video Anlytics
 
 ### Project Purpose and Expectations
 We propose a driving robot optimized for golf courses that use image recognition and self-driving technology.
