@@ -23,9 +23,21 @@ Our amphibious badger is able to photograph and detect geese and chase them away
 In addition to that the badger has GPS patrol path with collision avoidance and neural network image recognition.
 Our badger helps drive out the geese that interfere with the business in a low maintenance and cost-effective manner instead of the old fashion way of shooting them.
 
-
+#
     
-#### Our Robot
+### Our Robot
+#### Easy to Drive
+
+Easy to drive
+<img width="857" alt="스크린샷 2020-12-08 오후 12 49 35" src="https://user-images.githubusercontent.com/68213891/101437577-d693a080-3953-11eb-9df2-c81780997e65.png">
+
+Amphibious
+<img width="865" alt="스크린샷 2020-12-08 오후 12 50 09" src="https://user-images.githubusercontent.com/68213891/101437604-e9a67080-3953-11eb-9905-a6513deb060e.png">
+
+Autonomous
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4dddvqC3Yrw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 ##### **- Originality and Differentiation**
 
 
