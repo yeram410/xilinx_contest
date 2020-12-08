@@ -5,6 +5,7 @@ Team Members: Seongdae Kim, Yearam Kim, Hoo Kim
 Applied Contest Area: Catergory 2: Intelligent Video Anlytics
 
 ### Project Overview
+#
  우리 프로젝트는 이미지 인식과 자율주행 기술을 사용하고 있음. 
 이미지 인식하는데에 있어서 Vitis AI 를 활용할 수 있음. Vitis 어떤 AI 인지. (장점 서술)
 거위를 추적하는 자율주행 로봇은 골프장을 돌면서 자동으로 모니터링하는 기능을 갖추고 있음.
@@ -12,6 +13,7 @@ Applied Contest Area: Catergory 2: Intelligent Video Anlytics
 거위을 인식할 떄 거위 사진 데이터를 축적하여 연구소에 제공함으로서 animal behavior Modification과 Pest Control 분야에 효율적 사용이 가능함. 
 
 #### Purpose and Expectations
+#
 We have designed a big durable amphibious goose remover badger
 For the PGA golf course that spends $250k a year on goose removal and maintenance. 
 Our amphibious badger is able to photograph and detect geese and chase them away. 
@@ -19,9 +21,9 @@ In addition to that the badger has GPS patrol path with collision avoidance and 
 Our badger helps drive out the geese that interfere with the business in a low maintenance and cost-effective manner instead of the old fashion way of shooting them.
 
 
-#
+    
 #### Our Robot
-
+#
 ##### **- Originality and Differentiation**
 
 
