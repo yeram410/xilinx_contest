@@ -127,7 +127,7 @@ Setup: Boot from SD Card
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/68213891/101432659-9977e000-394c-11eb-9ee6-2de851b2f24e.png">
 
 
-AI library 
+AI library      
 https://www.xilinx.com/support/documentation/sw_manuals/vitis_ai/1_1/ug1354-xilinx-ai-sdk.pdf 
 
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/68213891/101432672-9d0b6700-394c-11eb-8ce2-f82c4b2e6db8.png">
