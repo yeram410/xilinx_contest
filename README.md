@@ -53,10 +53,8 @@ Autonomous Driving Video : https://youtu.be/4dddvqC3Yrw
 ### Badger Robot
 #### Badger Robot Design
 
-#### 배져 로봇 블록 다이어그램 
-    (a. 원래 다이어그램, b. ZU104로 electrical 파트가 대체된 다이어그램)
-
-#### 장단점 비교
+#### Badger Robot System Diagram
+#### Key features
 ##### Comparing goose detection(original model vs sample model)      
 <img width="178" alt="image" src="https://user-images.githubusercontent.com/68213891/101438747-65a1b800-3956-11eb-8692-d8af0b869d97.png">
     
@@ -66,10 +64,10 @@ When we used ZCU104 board with yolov3 model to test, the models show good FPS ne
 
 #
 #### Relevant Resource Files (Schematics, Code, CAD)
-기존의 파일들을 정리하고 ZCU104 적용한 것을 시간이 허락되는데로 표현 
 - Schematics
 - Code
 - CAD
+
 #
 
 ### Appendix
