@@ -33,7 +33,7 @@ Our badger helps drive out the geese that interfere with the business in a low m
 
 <img width="865" alt="스크린샷 2020-12-08 오후 12 50 09" src="https://user-images.githubusercontent.com/68213891/101437604-e9a67080-3953-11eb-9905-a6513deb060e.png">
 
-[![Autonomous]()](https://youtu.be/4dddvqC3Yrw) 
+[![Autonomous](https://i.ytimg.com/vi/4dddvqC3Yrw/hqdefault.jpg)](https://youtu.be/4dddvqC3Yrw) 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4dddvqC3Yrw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
