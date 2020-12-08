@@ -27,7 +27,10 @@ Our badger helps drive out the geese that interfere with the business in a low m
 #
     
 ### Our Robot
-
+1. Easy to Drive  
+2. Neural Network Image Recognition    
+3. Amphibious    
+4. Autonomous    
 <img width="650" alt="스크린샷 2020-12-08 오후 12 49 35" src="https://user-images.githubusercontent.com/68213891/101437577-d693a080-3953-11eb-9df2-c81780997e65.png">
 
 <img width="700" alt="스크린샷 2020-12-08 오후 2 37 29" src="https://user-images.githubusercontent.com/68213891/101444487-eff01900-3962-11eb-81a3-70185d4f37eb.png">
