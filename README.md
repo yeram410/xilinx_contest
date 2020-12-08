@@ -84,7 +84,17 @@ GUI usage
 1.	Code Download for GUI operation from GitBucket
 
 #
-### Badger Robot
+### Badger Robot (BADGR)
+The robot is designed for manufacturable, advanced prototype of the autonomous and amphibious goose chasing system, called the BADGR, which was prototyped in 2018. This system must meet the constraints outlined below and also be designed to be easily reproducible to meet the manufacturable specification. 
+Requirement / Constraint and Description
+1) Goose Detection: BADGR must be able to identify Canadian Geese with a camera
+2) Amphibious Design: BADGR must be able to float and maneuver well in water
+3) GPS Navigation: BADGR must be able to accurately navigate a path with GPS
+4) Cloud Connectivity: BADGR must be able to upload all goose images to be shared with A&K	
+5) Autonomous Design: BADGR must be able to be set up once and operate without further human interaction
+
+The system will also have a base station, called the BADGR Den, which will be the housing station for the BADGR when it is not in use. This will have GPS and Radio communication with the BADGR and also allow for uploading geese images to the cloud. This is the extent of the scope of our project. It has been set based on a careful review of last year’s project in unison with communication with our sponsor about what they want in an upgraded version of the BADGR.
+
 #### Badger Robot Design
 
 #### Badger Robot System Diagram
@@ -140,7 +150,7 @@ Note: SD1 Boot Mode is mainly used in this project with UART serial communicatio
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/68213891/101432617-86651000-394c-11eb-82ae-f4fb8250ced8.png">
      
      
-### Sd card    
+### SD card    
 Our project tried two approaches 1) Follow the user guide to generate the image 2) download and use the pre-imaged file     
      
           
