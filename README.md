@@ -58,8 +58,8 @@ Our badger helps drive out the geese that interfere with the business in a low m
 - Schematics
 - Code
 - CAD
-
-#### Appendix
+#
+### Appendix
 
 Contest Information: Adaptive Computing Developer Contest with Xilinx    
 https://www.hackster.io/contests/xilinxadaptivecomputing   
