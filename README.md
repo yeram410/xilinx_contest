@@ -108,7 +108,10 @@ Note: ZCU104 board reduces the complexity in its design as it removes the extra 
 
 #### Badger Robot System Diagram
 
-#### Key features
+
+#### SW state diagram 
+<img width="700" alt="스크린샷 2020-12-08 오후 2 52 47" src="https://user-images.githubusercontent.com/73500189/101509260-ee9f0a80-39bb-11eb-9277-6e90d216a78f.png">
+
 ##### Comparing goose detection(original model vs sample model)      
 <img width="178" alt="image" src="https://user-images.githubusercontent.com/68213891/101438747-65a1b800-3956-11eb-8692-d8af0b869d97.png">
     
