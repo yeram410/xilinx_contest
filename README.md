@@ -58,7 +58,7 @@ Our badger helps drive out the geese that interfere with the business in a low m
 
 #### Appendix
 
-Contest Information: Adaptive Computing Developer Contest with Xilinx
+Contest Information: Adaptive Computing Developer Contest with Xilinx    
 https://www.hackster.io/contests/xilinxadaptivecomputing   
    
 Forum Resource link:   
