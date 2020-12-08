@@ -5,7 +5,6 @@ Team Members: Seongdae Kim, Yearam Kim, Hoo Kim
 Applied Contest Area: Catergory 2: Intelligent Video Anlytics
 
 ### Project Overview
-#
  우리 프로젝트는 이미지 인식과 자율주행 기술을 사용하고 있음. 
 이미지 인식하는데에 있어서 Vitis AI 를 활용할 수 있음. Vitis 어떤 AI 인지. (장점 서술)
 거위를 추적하는 자율주행 로봇은 골프장을 돌면서 자동으로 모니터링하는 기능을 갖추고 있음.
