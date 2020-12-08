@@ -99,7 +99,12 @@ The system will also have a base station, called the BADGR Den, which will be th
 <img width="700" alt="스크린샷 2020-12-08 오후 2 52 47" src="https://user-images.githubusercontent.com/73500189/101506461-c2ce5580-39b8-11eb-8c32-4ab726a2b451.png">
 
 #### Badger Robot Electrical Components
+Current Design
 <img width="700" alt="스크린샷 2020-12-08 오후 2 52 47" src="https://user-images.githubusercontent.com/73500189/101506485-c8c43680-39b8-11eb-9e7b-e2d6d6adf335.png">
+
+Improved Design applying ZCU104
+<img width="700" alt="스크린샷 2020-12-08 오후 2 52 47" src="https://user-images.githubusercontent.com/73500189/101507905-69ffbc80-39ba-11eb-9609-71076bd4f5d6.png">
+Note: ZCU104 board reduces the complexity in its design as it removes the extra PCB and use Compusticks.
 
 #### Badger Robot System Diagram
 
