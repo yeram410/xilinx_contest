@@ -67,7 +67,13 @@ Our badger helps drive out the geese that interfere with the business in a low m
     (a. 원래 다이어그램, b. ZU104로 electrical 파트가 대체된 다이어그램)
 
 3. 장단점 비교
-4. Geese detection by Vitis AI vs. 기존 detection / conversion이 가능하면 함께 비교 
+4. Comparing goose detection(original model vs sample model)      
+<img width="178" alt="image" src="https://user-images.githubusercontent.com/68213891/101438747-65a1b800-3956-11eb-8692-d8af0b869d97.png">
+    
+The original detection FPS are less than 4.5 but accuracy is more than 96.3%.
+When we used ZCU104 board with yolov3 model to test, the models show good FPS near the performance FPS measured before. But when test 50 images with yolov3 vcc model, it showed bad result. Almost images are recognized as bird, but the accuracy are very low(average: 54.6%, standard variation: 44.71%). It is expected that the advantages of both cases can be used at the same time if the model is made and used by focusing more on Goose.
+
+
 #
 #### Relevant Resource Files (Schematics, Code, CAD)
 기존의 파일들을 정리하고 ZCU104 적용한 것을 시간이 허락되는데로 표현 
