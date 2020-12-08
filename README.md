@@ -85,23 +85,23 @@ Note: For Vitis AI, there is no need to generate any Licnese
 Vivado Design Suite User Guide:     
 http://www.xilinx.com/cgi-bin/docs/rdoc?v=latest;d=iil.pdf;a=ObtainManageLicense     
     
-#####USB-UART driver: CP210x USB to UART bridge    
+##### USB-UART driver: CP210x USB to UART bridge    
 To use Serial Communication, this driver should be installed, and you can get the file from the following site.     
 https://xilinx-wiki.atlassian.net/wiki/spaces/A/pages/18842446/Setup+a+Serial+Console    
     
-#####Booting option from the user-guide     
+#### Booting option from the user-guide     
 Note: SD1 Boot Mode is mainly used in this project with UART serial communication for debugging purpose.     
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/68213891/101432617-86651000-394c-11eb-82ae-f4fb8250ced8.png">
      
      
-#### Sd card    
+### Sd card    
 Our project tried two approaches 1) Follow the user guide to generate the image 2) download and use the pre-imaged file    
 To use Serial Communication, this driver should be installed, and you can get the file from the    
 https://pynq.readthedocs.io/en/latest/getting_started/zcu104_setup.html 
 
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/68213891/101432623-88c76a00-394c-11eb-90f5-e4087b271a74.png">
-    
 <img width="468" alt="image" src="https://user-images.githubusercontent.com/68213891/101432629-8c5af100-394c-11eb-877d-8c30236577dd.png">
+<img width="468" alt="image" src="https://user-images.githubusercontent.com/68213891/101433164-97fae780-394d-11eb-8fe7-0a92528b7d83.png">
 <img width="369" alt="image" src="https://user-images.githubusercontent.com/68213891/101432636-8ebd4b00-394c-11eb-9daa-93f7ff149d6d.png">
 
      
