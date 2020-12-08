@@ -6,14 +6,9 @@ Applied Contest Area: Catergory 2: Intelligent Video Anlytics
 
 ### Project Overview
 We propose a driving robot optimized for golf courses that use image recognition and self-driving technology.
-    
 What's noteworthy in this paper is that we used Vitis AI, which Xilinx developed for all developers, to recognize images.
-    
 Self-driving robots that track geese are equipped with automatic monitoring functions as they go around golf courses.
-    
-The concept of our project is that several robots send and receive data from each other, recognize and track geese, and chase them away that cause damage to commercial areas.
-    
-When robots recognize geese, they accumulate geese photo data and provide it to the lab, enabling efficient use in the area of animal behabior modification and Pest control Industry.
+The concept of our project is that several robots send and receive data from each other, recognize and track geese, and chase them away that cause damage to commercial areas. When robots recognize geese, they accumulate geese photo data and provide it to the lab, enabling efficient use in the area of animal behabior modification and Pest control Industry.
     
 
 
